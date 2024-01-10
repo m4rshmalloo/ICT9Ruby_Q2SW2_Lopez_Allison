@@ -1,0 +1,40 @@
+body {
+	background-image: url("Background.webp");
+	font-family: sans-serif;
+}
+
+
+table, th, td {
+	background-color: seashell;
+	border-color: saddlebrown;
+    margin-left: auto;
+    margin-right: auto;
+	border: 3px solid;
+	border-color: brown;
+	text-align: center;
+}
+
+th {
+	color: saddlebrown;
+	font-size: 30px;
+}
+
+div {
+	color: red;
+	text-align: center;
+	padding: 2px;
+	background-color: seashell;
+	border: 5px dotted red;
+}
+
+form {
+	text-align: center;
+}
+
+h1 {
+	font-size: 4vw;
+}
+
+h3 {
+	color: red;
+}
